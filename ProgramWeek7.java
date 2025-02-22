@@ -196,5 +196,5 @@ public class ProgramWeek7{
         System.out.println(tester.randomLowerCase());
         System.out.println(tester.squareIt(6.0));
     }
-
+docks
 }
